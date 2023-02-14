@@ -1,3 +1,3 @@
 # Personal webpage
 
-https://www.gohyda.com
+https://gohyda.com
